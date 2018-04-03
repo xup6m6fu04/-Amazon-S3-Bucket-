@@ -11,10 +11,12 @@
 
 爬文後找到解法，在此分享
 
-1.進入儲存桶後
-2.點選 Permissions
-3.點選下面的 Bucket Policy
-4.輸入內容
+1. 進入儲存桶後
+2. 點選上方的 Permissions
+3. 點選下面的 Bucket Policy
+4. 輸入以下內容 
+
+
 ```
 {
     "Version": "2008-10-17",
